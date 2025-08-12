@@ -1,0 +1,7 @@
+# No additional packages required
+# This game uses only built-in Python libraries:
+# - tkinter (GUI framework)
+# - random (for shuffling cards)
+# - time (for timer functionality)
+
+# Python 3.6+ recommended
